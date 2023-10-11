@@ -8,7 +8,7 @@ The contract contains a single function sumBytes which takes two byte arrays as 
 
 ### Features
 
-Byte-by-Byte Addition: Adds corresponding bytes from two input arrays.
-Overflow Handling: Detects and handles overflow, ensuring accuracy of the result.
-Inline Assembly: Utilizes inline Assembly for optimized byte handling and arithmetic operations.
-Pure Function: The sumBytes function is marked as pure, ensuring no state changes.
+-Byte-by-Byte Addition: Adds corresponding bytes from two input arrays.
+-Overflow Handling: Detects and handles overflow, ensuring accuracy of the result.
+-Inline Assembly: Utilizes inline Assembly for optimized byte handling and arithmetic operations.
+-Pure Function: The sumBytes function is marked as pure, ensuring no state changes.
